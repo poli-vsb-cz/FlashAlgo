@@ -103,6 +103,10 @@ projects:
         - *module_tools
         - records/projects/freescale/common/fsl_flash_driver.yaml
         - records/projects/freescale/targets/mk20d5.yaml
+    mk22d5:
+        - *module_tools
+        - records/projects/freescale/common/fsl_flash_driver.yaml
+        - records/projects/freescale/targets/mk22d5.yaml
     mk64f12:
         - *module_tools
         - records/projects/freescale/common/fsl_flash_driver.yaml
